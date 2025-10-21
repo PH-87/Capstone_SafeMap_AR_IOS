@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: a5f2183aaa7bf4cbfac2e1e1d1958232
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - coinPrefab: {instanceID: 0}
+  - arCamera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
