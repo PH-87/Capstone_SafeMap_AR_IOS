@@ -4,6 +4,8 @@
 
 AR기반 등하교 서포트 서비스는 초등학생을 위한 AR 기반 안전 등하교 내비게이션 앱입니다. 이 저장소는 전체 서비스 중 **iOS AR 경로 시각화** 부분을 담당합니다. [AI 시스템](https://github.com/woojinhong03/Capstone_SafeMap/)에서 생성된 안전 경로 데이터를 받아, Unity AR Foundation과 ARKit을 활용하여 아이가 따라갈 수 있는 AR 코인 경로를 현실 세계에 구현합니다.
 
+* [경로 구현 설명](https://github.com/woojinhong03/Capstone_SafeMap/)
+
 ## 🎯 AR 모듈 개발 목적
 
 * AI 시스템이 도출한 **안전 경로 좌표(JSON)**를 정확히 로드 및 해석
