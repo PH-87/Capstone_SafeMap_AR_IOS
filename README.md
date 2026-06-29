@@ -39,24 +39,6 @@ SafeWalkAR는 한 단계 더 나아가, **AI가 분석한 안전 경로를 실�
 
 ---
 
-# 🎥 Demo
-
-## 💡 Idea Introduction
-
-https://youtu.be/zockLh4R2Lk
-
-프로젝트의 기획 배경과 서비스 아이디어를 소개하는 영상입니다.
-
----
-
-## 🚀 Final Demonstration
-
-https://youtu.be/lKd-h1pzmws
-
-실제 구현된 SafeWalkAR 서비스 시연 영상입니다.
-
----
-
 # 🚸 Background
 
 최근 맞벌이 가정 증가와 초등학생의 자율 등하교 증가로 인해 어린이 보행 안전 문제가 지속적으로 발생하고 있습니다.
@@ -324,9 +306,17 @@ SafeWalkAR는 AI 기반 위험도 분석과 AR 내비게이션을 하나의 서�
 
 ## 🖼️ Project Poster
 
-<p align="center">
-<img src="images/poster.png" width="90%">
-</p>
+<table>
+<tr>
+<td align="center">
+<img src="images/poster1.png" width="100%">
+</td>
+
+<td align="center">
+<img src="images/poster2.png" width="100%">
+</td>
+</tr>
+</table>
 
 프로젝트의 전체 구조와 핵심 기능을 정리한 캡스톤디자인 전시 포스터입니다.
 
@@ -457,12 +447,6 @@ https://youtu.be/zockLh4R2Lk
 ### 🚀 Final Demonstration
 
 https://youtu.be/lKd-h1pzmws
-
----
-
-# 📄 License
-
-This repository is intended for educational and portfolio purposes.
 
 ---
 
